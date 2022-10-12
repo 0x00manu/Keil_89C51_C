@@ -1,0 +1,8 @@
+".\Objects\combined.obj",
+".\Objects\display.obj",
+".\Objects\lookup_table.obj",
+".\Objects\main.obj",
+".\Objects\serial.obj",
+".\Objects\timer0.obj" 
+TO ".\Objects\AND_Jumbo" 
+PRINT(".\Listings\AND_Jumbo.m51")
